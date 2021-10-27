@@ -1,2 +1,2 @@
-# Reposit;o Geral
+# Repositório Geral
  Primeiro repositório 
